@@ -33,12 +33,12 @@ If we have time we will try different game rules (probability change, size grid)
 In order to install the package, firstly import the modules present in the `./requirement.txt` file, then execute the following command
 
 ```{bash}
-pip install -i https://test.pypi.org/simple/ game2048==0.0.1
+$ pip install -i https://test.pypi.org/simple/ game2048==0.0.1
 ```
 
 then import it from a python shell
 ```{python}
-import Game2048
+>>> import Game2048
 ```
 
 ## Documentation
